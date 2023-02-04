@@ -1,7 +1,7 @@
 {
-  "user": {
-    "email": "zoro39@gmail.com",
-    "username": "zoro39",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inpvcm8zOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Inpvcm8zOSIsImlhdCI6MTY3NTUwNjMzOSwiZXhwIjoxNjgwNjkwMzM5fQ.wYfA4tYdH6zEg9kkIotsRKU_4FiodU75hyxC_zvZevU"
-  }
+    "user": {
+        "username": "soda39",
+        "email": "soda39@mail.ru",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZGU2ODgyNmY4YmVlMWIwMDU1MWJmZSIsInVzZXJuYW1lIjoic29kYTM5IiwiZXhwIjoxNjgwNzA0MjI0LCJpYXQiOjE2NzU1MjAyMjR9.APqypovYxAX4R_sE52yJXFin2A_8e_DKowyBSjKiMO8"
+    }
 }
